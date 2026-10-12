@@ -3926,5 +3926,36 @@
         "reason": "基于本地嵌入模型的Mac文件内容搜索，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1412548284,
+        "full_name": "storytold/craft-launcher",
+        "html_url": "https://github.com/storytold/craft-launcher",
+        "stars": 1372,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1413898431,
+        "full_name": "liseami/CCBaga",
+        "html_url": "https://github.com/liseami/CCBaga",
+        "stars": 756,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1412360690,
+        "full_name": "n1tr00-10/tiktok-web-signature",
+        "html_url": "https://github.com/n1tr00-10/tiktok-web-signature",
+        "stars": 711,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
