@@ -3957,5 +3957,28 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1414685342,
+        "full_name": "onehumanbeing/esp32-iphone-agent",
+        "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "stars": 972,
+        "score": 4,
+        "reason": "用ESP32控制iPhone的AI agent方案，思路新颖，硬件成本低，有实际应用价值"
+      },
+      {
+        "id": 1413549354,
+        "full_name": "opengeos/RustGIS",
+        "html_url": "https://github.com/opengeos/RustGIS",
+        "stars": 385,
+        "score": 4,
+        "reason": "纯Rust实现的开源GIS工具，技术栈现代，有实用价值"
+      }
+    ]
   }
 ]
