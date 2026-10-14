@@ -3980,5 +3980,20 @@
         "reason": "纯Rust实现的开源GIS工具，技术栈现代，有实用价值"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1414354754,
+        "full_name": "SouravBeraAkaSpeed/xiryn",
+        "html_url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+        "stars": 157,
+        "score": 4,
+        "reason": "开源个人AI agent，Docker隔离桌面+多模型支持，架构完整有实用价值"
+      }
+    ]
   }
 ]
