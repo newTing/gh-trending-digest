@@ -3995,5 +3995,28 @@
         "reason": "开源个人AI agent，Docker隔离桌面+多模型支持，架构完整有实用价值"
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1416766144,
+        "full_name": "outcrawlai/scout",
+        "html_url": "https://github.com/outcrawlai/scout",
+        "stars": 707,
+        "score": 4,
+        "reason": "开源浏览器 agent，可自动化网页操作，实用性强"
+      },
+      {
+        "id": 1416887041,
+        "full_name": "datalab-to/indra",
+        "html_url": "https://github.com/datalab-to/indra",
+        "stars": 261,
+        "score": 4,
+        "reason": "快速 CPU OCR，支持行检测与 markdown，实用文档解析工具"
+      }
+    ]
   }
 ]
