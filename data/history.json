@@ -4018,5 +4018,68 @@
         "reason": "快速 CPU OCR，支持行检测与 markdown，实用文档解析工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1419746236,
+        "full_name": "ahwootech/BRUTAL",
+        "html_url": "https://github.com/ahwootech/BRUTAL",
+        "stars": 1253,
+        "score": 4,
+        "reason": "开源C#游戏框架，直通Vulkan与原生API，游戏开发者可关注"
+      },
+      {
+        "id": 1420751050,
+        "full_name": "feder-cr/open_scion",
+        "html_url": "https://github.com/feder-cr/open_scion",
+        "stars": 867,
+        "score": 4,
+        "reason": "面向编码Agent的版本控制工具，Go实现，AI开发流程有价值"
+      },
+      {
+        "id": 1417155242,
+        "full_name": "Zfinix/eleven",
+        "html_url": "https://github.com/Zfinix/eleven",
+        "stars": 516,
+        "score": 4,
+        "reason": "Agent驱动的逆向工程工具，支持多平台二进制与安卓分析"
+      },
+      {
+        "id": 1418878693,
+        "full_name": "0xProbabillity/house-control",
+        "html_url": "https://github.com/0xProbabillity/house-control",
+        "stars": 428,
+        "score": 4,
+        "reason": "Mac菜单栏与iPhone上的3D智能家居控制，Swift实现实用"
+      },
+      {
+        "id": 1416692900,
+        "full_name": "i12bp8/decomp.wtf",
+        "html_url": "https://github.com/i12bp8/decomp.wtf",
+        "stars": 391,
+        "score": 4,
+        "reason": "本地AI反编译工具，可将游戏还原为可编译C代码，技术含量高"
+      },
+      {
+        "id": 1416666644,
+        "full_name": "PiggyBackBayonet/MiAuto",
+        "html_url": "https://github.com/PiggyBackBayonet/MiAuto",
+        "stars": 216,
+        "score": 4,
+        "reason": "ICCOA CarLink车机端接收器，安卓投屏实用工具"
+      },
+      {
+        "id": 1418643214,
+        "full_name": "Entelligence-AI/agentplay",
+        "html_url": "https://github.com/Entelligence-AI/agentplay",
+        "stars": 213,
+        "score": 4,
+        "reason": "将编码Agent会话回放为地图与时间线，调试分析有价值"
+      }
+    ]
   }
 ]
