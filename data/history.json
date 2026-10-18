@@ -4144,5 +4144,44 @@
         "reason": "LSPosed出品的DEX SQL查询工具，Android逆向开发实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1420063501,
+        "full_name": "chenglou/handwired",
+        "html_url": "https://github.com/chenglou/handwired",
+        "stars": 1686,
+        "score": 4,
+        "reason": "将普通JS代码转为神经网络的实验性工具，思路新颖，适合研究型开发者"
+      },
+      {
+        "id": 1422783076,
+        "full_name": "Noniv/web-ocean",
+        "html_url": "https://github.com/Noniv/web-ocean",
+        "stars": 530,
+        "score": 4,
+        "reason": "纯WebGPU实时海洋渲染器，技术参考价值高"
+      },
+      {
+        "id": 1420531062,
+        "full_name": "mistralai/timestral",
+        "html_url": "https://github.com/mistralai/timestral",
+        "stars": 276,
+        "score": 4,
+        "reason": "Mistral官方时间序列模型库，有实际工程价值"
+      },
+      {
+        "id": 1422344223,
+        "full_name": "reason-machines/reason-network",
+        "html_url": "https://github.com/reason-machines/reason-network",
+        "stars": 272,
+        "score": 4,
+        "reason": "多编码Agent P2P协作引擎，架构有参考价值"
+      }
+    ]
   }
 ]
