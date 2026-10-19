@@ -4183,5 +4183,20 @@
         "reason": "多编码Agent P2P协作引擎，架构有参考价值"
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1423101235,
+        "full_name": "Gathin23/tv-vibehack",
+        "html_url": "https://github.com/Gathin23/tv-vibehack",
+        "stars": 2460,
+        "score": 4,
+        "reason": "实用的Android TV去广告工具，无需root可逆，受众明确"
+      }
+    ]
   }
 ]
