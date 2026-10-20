@@ -4198,5 +4198,36 @@
         "reason": "实用的Android TV去广告工具，无需root可逆，受众明确"
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1424399708,
+        "full_name": "interplains/zero-breach",
+        "html_url": "https://github.com/interplains/zero-breach",
+        "stars": 433,
+        "score": 4,
+        "reason": "本地只读间谍软件扫描器，安全取证场景实用且无依赖"
+      },
+      {
+        "id": 1424819112,
+        "full_name": "finereli/whatsapp-mcp",
+        "html_url": "https://github.com/finereli/whatsapp-mcp",
+        "stars": 288,
+        "score": 4,
+        "reason": "只读WhatsApp MCP服务器，让Agent读取消息，实用且部署简单"
+      },
+      {
+        "id": 1424285974,
+        "full_name": "kanaworksai-hue/audio-studio-mcp",
+        "html_url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+        "stars": 278,
+        "score": 4,
+        "reason": "本地AI背景音乐与音效MCP，无需云服务，游戏音频场景实用"
+      }
+    ]
   }
 ]
