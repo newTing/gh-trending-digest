@@ -4229,5 +4229,76 @@
         "reason": "本地AI背景音乐与音效MCP，无需云服务，游戏音频场景实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1426270002,
+        "full_name": "ELY-Open-Source/ElyOffice",
+        "html_url": "https://github.com/ELY-Open-Source/ElyOffice",
+        "stars": 647,
+        "score": 4,
+        "reason": "Rust+GPUI离线办公套件，技术栈新颖值得关注"
+      },
+      {
+        "id": 1425469723,
+        "full_name": "UniXNU/UniXNU",
+        "html_url": "https://github.com/UniXNU/UniXNU",
+        "stars": 429,
+        "score": 4,
+        "reason": "在非苹果ARM64硬件上通过UEFI运行iOS/macOS，技术价值高"
+      },
+      {
+        "id": 1425658028,
+        "full_name": "Hugo-Dz/spritefusion-sprite-normals",
+        "html_url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+        "stars": 401,
+        "score": 4,
+        "reason": "从精灵图生成法线贴图的工具，游戏开发实用"
+      },
+      {
+        "id": 1427107663,
+        "full_name": "eagle-hq/EAGLE-4",
+        "html_url": "https://github.com/eagle-hq/EAGLE-4",
+        "stars": 378,
+        "score": 4,
+        "reason": "EAGLE-4官方推理代码，LLM加速领域有价值"
+      },
+      {
+        "id": 1426877531,
+        "full_name": "dominikmartn/harp",
+        "html_url": "https://github.com/dominikmartn/harp",
+        "stars": 365,
+        "score": 4,
+        "reason": "多Agent并行管理侧边栏，AI开发工作流实用"
+      },
+      {
+        "id": 1425952796,
+        "full_name": "vercel-labs/fx0",
+        "html_url": "https://github.com/vercel-labs/fx0",
+        "stars": 323,
+        "score": 4,
+        "reason": "Vercel轻量设计Agent，单HTML输出，实用有趣"
+      },
+      {
+        "id": 1423873803,
+        "full_name": "SNO2207/WindowSmash",
+        "html_url": "https://github.com/SNO2207/WindowSmash",
+        "stars": 314,
+        "score": 4,
+        "reason": "大乱斗Windows原生移植工具链，技术含量高"
+      },
+      {
+        "id": 1424038340,
+        "full_name": "wevm/ondine",
+        "html_url": "https://github.com/wevm/ondine",
+        "stars": 302,
+        "score": 4,
+        "reason": "Rust快速简洁图表工具，开发者绘图实用"
+      }
+    ]
   }
 ]
