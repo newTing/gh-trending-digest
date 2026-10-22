@@ -4300,5 +4300,20 @@
         "reason": "Rust快速简洁图表工具，开发者绘图实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1425063138,
+        "full_name": "opentrap/opentrap",
+        "html_url": "https://github.com/opentrap/opentrap",
+        "stars": 344,
+        "score": 4,
+        "reason": "开源Burp Suite替代品，功能完整，安全测试有价值"
+      }
+    ]
   }
 ]
