@@ -4315,5 +4315,44 @@
         "reason": "开源Burp Suite替代品，功能完整，安全测试有价值"
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1426780056,
+        "full_name": "pengchujin/aerial-tv",
+        "html_url": "https://github.com/pengchujin/aerial-tv",
+        "stars": 3341,
+        "score": 4,
+        "reason": "无广告的Android TV桌面，解决国产电视痛点，实用性强"
+      },
+      {
+        "id": 1427696883,
+        "full_name": "colinhacks/reylo",
+        "html_url": "https://github.com/colinhacks/reylo",
+        "stars": 744,
+        "score": 4,
+        "reason": "SQL导入TypeScript带类型推断，零代码生成，设计巧妙"
+      },
+      {
+        "id": 1428848843,
+        "full_name": "wesbos/3d-model-anything",
+        "html_url": "https://github.com/wesbos/3d-model-anything",
+        "stars": 597,
+        "score": 4,
+        "reason": "iPhone LiDAR重建可编辑3D房间，创意实用"
+      },
+      {
+        "id": 1427489759,
+        "full_name": "torrentplayer/torrentplayer",
+        "html_url": "https://github.com/torrentplayer/torrentplayer",
+        "stars": 366,
+        "score": 4,
+        "reason": "开源BT流媒体播放器，跨平台无遥测，实用"
+      }
+    ]
   }
 ]
