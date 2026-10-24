@@ -4354,5 +4354,36 @@
         "reason": "开源BT流媒体播放器，跨平台无遥测，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1428714039,
+        "full_name": "xevrion/hatchzip",
+        "html_url": "https://github.com/xevrion/hatchzip",
+        "stars": 1108,
+        "score": 4,
+        "reason": "原地解压大档案节省磁盘空间，思路实用且Rust实现"
+      },
+      {
+        "id": 1428486097,
+        "full_name": "xingjian-bai/opal",
+        "html_url": "https://github.com/xingjian-bai/opal",
+        "stars": 184,
+        "score": 4,
+        "reason": "用编码代理实时重写优化器，研究思路新颖实用"
+      },
+      {
+        "id": 1427730644,
+        "full_name": "JMS1717/ming-voice",
+        "html_url": "https://github.com/JMS1717/ming-voice",
+        "stars": 181,
+        "score": 4,
+        "reason": "本地低延迟语音助手，AMD/NV双支持，实用"
+      }
+    ]
   }
 ]
