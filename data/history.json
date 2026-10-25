@@ -4385,5 +4385,60 @@
         "reason": "本地低延迟语音助手，AMD/NV双支持，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1429213407,
+        "full_name": "assetnote/php2shell-scanner",
+        "html_url": "https://github.com/assetnote/php2shell-scanner",
+        "stars": 809,
+        "score": 4,
+        "reason": "针对特定CVE的高保真漏洞扫描器，安全团队可用"
+      },
+      {
+        "id": 1432115490,
+        "full_name": "songjianyang/xss-audit",
+        "html_url": "https://github.com/songjianyang/xss-audit",
+        "stars": 246,
+        "score": 4,
+        "reason": "静态XSS审计技能，14层检查对前端安全实用"
+      },
+      {
+        "id": 1431851693,
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 239,
+        "score": 4,
+        "reason": "免root关闭国产安卓广告，实用且可还原"
+      },
+      {
+        "id": 1431597980,
+        "full_name": "ivarvong/lantern",
+        "html_url": "https://github.com/ivarvong/lantern",
+        "stars": 207,
+        "score": 4,
+        "reason": "零依赖可步进代码动画解释器，教学与文档场景实用"
+      },
+      {
+        "id": 1430956513,
+        "full_name": "EgorBo/BlazingFastDotnet",
+        "html_url": "https://github.com/EgorBo/BlazingFastDotnet",
+        "stars": 200,
+        "score": 4,
+        "reason": ".NET性能调优技巧合集，对.NET开发者有参考价值"
+      },
+      {
+        "id": 1431921604,
+        "full_name": "xMazaki/unbloat-android-tv",
+        "html_url": "https://github.com/xMazaki/unbloat-android-tv",
+        "stars": 191,
+        "score": 4,
+        "reason": "Android TV去广告与极简桌面，可逆且实用"
+      }
+    ]
   }
 ]
