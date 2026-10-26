@@ -4479,5 +4479,92 @@
         "reason": "AI驱动的攻击面评估工具，安全领域实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1431545439,
+        "full_name": "JustAResearcher/gpu-unlock-ada",
+        "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+        "stars": 3483,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432980411,
+        "full_name": "designfuchen/word-atlas",
+        "html_url": "https://github.com/designfuchen/word-atlas",
+        "stars": 1252,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1431830406,
+        "full_name": "t3dotgg/tstack",
+        "html_url": "https://github.com/t3dotgg/tstack",
+        "stars": 757,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1431010194,
+        "full_name": "enesozturk/dimensional-drawing",
+        "html_url": "https://github.com/enesozturk/dimensional-drawing",
+        "stars": 746,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433057196,
+        "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+        "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "stars": 663,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433653089,
+        "full_name": "KillaBoi/StealMyBitcoin-PoC",
+        "html_url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+        "stars": 596,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433377156,
+        "full_name": "unclebob/ub-mode",
+        "html_url": "https://github.com/unclebob/ub-mode",
+        "stars": 545,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1431464445,
+        "full_name": "surendrapandar/minilytics",
+        "html_url": "https://github.com/surendrapandar/minilytics",
+        "stars": 529,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432400572,
+        "full_name": "wangrongding/tv-fresh",
+        "html_url": "https://github.com/wangrongding/tv-fresh",
+        "stars": 455,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432413816,
+        "full_name": "mirkobrombin/raven",
+        "html_url": "https://github.com/mirkobrombin/raven",
+        "stars": 414,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
