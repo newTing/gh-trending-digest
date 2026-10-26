@@ -4440,5 +4440,44 @@
         "reason": "Android TV去广告与极简桌面，可逆且实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1430513158,
+        "full_name": "morganlinton/BeautifulRust",
+        "html_url": "https://github.com/morganlinton/BeautifulRust",
+        "stars": 855,
+        "score": 4,
+        "reason": "教Claude写地道Rust的插件，对Rust+AI开发者有实用价值"
+      },
+      {
+        "id": 1432875224,
+        "full_name": "mizorewww/gdirect",
+        "html_url": "https://github.com/mizorewww/gdirect",
+        "stars": 618,
+        "score": 4,
+        "reason": "Rust实现的Google Drive直链下载器，功能明确实用"
+      },
+      {
+        "id": 1431077783,
+        "full_name": "x86rc/unthemidator",
+        "html_url": "https://github.com/x86rc/unthemidator",
+        "stars": 236,
+        "score": 4,
+        "reason": "Themida/WinLicense自动化脱壳工具，逆向工程领域实用"
+      },
+      {
+        "id": 1432649361,
+        "full_name": "hevnsnt/CVEngine",
+        "html_url": "https://github.com/hevnsnt/CVEngine",
+        "stars": 212,
+        "score": 4,
+        "reason": "AI驱动的攻击面评估工具，安全领域实用"
+      }
+    ]
   }
 ]
