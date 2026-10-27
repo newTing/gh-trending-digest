@@ -4566,5 +4566,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1433904617,
+        "full_name": "andyhuo520/digital-human-koubo",
+        "html_url": "https://github.com/andyhuo520/digital-human-koubo",
+        "stars": 845,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433636611,
+        "full_name": "DrWhax/unfairplay",
+        "html_url": "https://github.com/DrWhax/unfairplay",
+        "stars": 564,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432883796,
+        "full_name": "ZiChuanLan/agent-purge",
+        "html_url": "https://github.com/ZiChuanLan/agent-purge",
+        "stars": 457,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433269248,
+        "full_name": "misshexa66/OunceCake",
+        "html_url": "https://github.com/misshexa66/OunceCake",
+        "stars": 452,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433846971,
+        "full_name": "yaojingang/GEOInflow",
+        "html_url": "https://github.com/yaojingang/GEOInflow",
+        "stars": 433,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432231624,
+        "full_name": "routerhubSI/glm-5.3-abliterated",
+        "html_url": "https://github.com/routerhubSI/glm-5.3-abliterated",
+        "stars": 392,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432398049,
+        "full_name": "routerhubSI/uncensored-ai-api",
+        "html_url": "https://github.com/routerhubSI/uncensored-ai-api",
+        "stars": 368,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433732132,
+        "full_name": "andriu-kun/-wildrig-multi",
+        "html_url": "https://github.com/andriu-kun/-wildrig-multi",
+        "stars": 362,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434396340,
+        "full_name": "martinkeith700/ruyiJS",
+        "html_url": "https://github.com/martinkeith700/ruyiJS",
+        "stars": 296,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434171555,
+        "full_name": "free-cracks/Adobe-Acrobat-Pro",
+        "html_url": "https://github.com/free-cracks/Adobe-Acrobat-Pro",
+        "stars": 288,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
