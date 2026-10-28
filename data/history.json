@@ -4653,5 +4653,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1436185485,
+        "full_name": "DLSS-5-Swaper-New/.github",
+        "html_url": "https://github.com/DLSS-5-Swaper-New/.github",
+        "stars": 1544,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433297111,
+        "full_name": "interplains/Zero-Breach-Toolkit",
+        "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
+        "stars": 1261,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1435695423,
+        "full_name": "anhao/ai-pose-gallery-zh",
+        "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
+        "stars": 947,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434789878,
+        "full_name": "kargulstudio/calender-app-design",
+        "html_url": "https://github.com/kargulstudio/calender-app-design",
+        "stars": 687,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434017230,
+        "full_name": "Motionsites-AI/claude-skill",
+        "html_url": "https://github.com/Motionsites-AI/claude-skill",
+        "stars": 607,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434616998,
+        "full_name": "blakeandersonw/ai-app-playbook",
+        "html_url": "https://github.com/blakeandersonw/ai-app-playbook",
+        "stars": 515,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433459113,
+        "full_name": "stormydayy/halo-overlay",
+        "html_url": "https://github.com/stormydayy/halo-overlay",
+        "stars": 515,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434335249,
+        "full_name": "deepopen-com/deepopen-3d-webs",
+        "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
+        "stars": 412,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433010899,
+        "full_name": "mochiiwuff/capri-desktop",
+        "html_url": "https://github.com/mochiiwuff/capri-desktop",
+        "stars": 351,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1432731313,
+        "full_name": "KohakuBlueleaf/KohakUnlock",
+        "html_url": "https://github.com/KohakuBlueleaf/KohakUnlock",
+        "stars": 337,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
