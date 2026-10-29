@@ -4740,5 +4740,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1436598075,
+        "full_name": "smithjohn78390/tongjiang-lab",
+        "html_url": "https://github.com/smithjohn78390/tongjiang-lab",
+        "stars": 670,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434156379,
+        "full_name": "konlu/story-studio",
+        "html_url": "https://github.com/konlu/story-studio",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1433970549,
+        "full_name": "Fractal-Compute-Orchestrations/.github",
+        "html_url": "https://github.com/Fractal-Compute-Orchestrations/.github",
+        "stars": 395,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1435425970,
+        "full_name": "patch-gg/anymove",
+        "html_url": "https://github.com/patch-gg/anymove",
+        "stars": 386,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1436323783,
+        "full_name": "ChannelCooperStart/capri-ai",
+        "html_url": "https://github.com/ChannelCooperStart/capri-ai",
+        "stars": 386,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1436414244,
+        "full_name": "vaishantsah/watson-AI-osint-all-in-one",
+        "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+        "stars": 358,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1435761182,
+        "full_name": "OpenBMB/MiniCPM-OCR",
+        "html_url": "https://github.com/OpenBMB/MiniCPM-OCR",
+        "stars": 354,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1436834115,
+        "full_name": "jacke-pp/open-yoki",
+        "html_url": "https://github.com/jacke-pp/open-yoki",
+        "stars": 340,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1436383884,
+        "full_name": "NotRexed/SkyboundTotk",
+        "html_url": "https://github.com/NotRexed/SkyboundTotk",
+        "stars": 332,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1434123082,
+        "full_name": "piermark/omarchytv",
+        "html_url": "https://github.com/piermark/omarchytv",
+        "stars": 325,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
