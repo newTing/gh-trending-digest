@@ -4827,5 +4827,60 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1438540053,
+        "full_name": "wangzan101/Mika",
+        "html_url": "https://github.com/wangzan101/Mika",
+        "stars": 1782,
+        "score": 4,
+        "reason": "端侧Android AI代理，能操作App和网页，架构完整有实用价值"
+      },
+      {
+        "id": 1436502942,
+        "full_name": "MiniMax-AI/mcode-stack",
+        "html_url": "https://github.com/MiniMax-AI/mcode-stack",
+        "stars": 466,
+        "score": 4,
+        "reason": "MiniMax官方开源AI编码工作流与技能，对agent开发有参考价值"
+      },
+      {
+        "id": 1437343601,
+        "full_name": "Humpalumps/Ultra-Water",
+        "html_url": "https://github.com/Humpalumps/Ultra-Water",
+        "stars": 452,
+        "score": 4,
+        "reason": "three.js实时FFT海洋渲染器，含泡沫、焦散、水下效果，图形开发实用"
+      },
+      {
+        "id": 1439372976,
+        "full_name": "patch-gg/pixelfx",
+        "html_url": "https://github.com/patch-gg/pixelfx",
+        "stars": 449,
+        "score": 4,
+        "reason": "232个像素艺术效果加Claude技能，游戏开发实用资源"
+      },
+      {
+        "id": 1437033043,
+        "full_name": "jmanico/grim-prompter",
+        "html_url": "https://github.com/jmanico/grim-prompter",
+        "stars": 268,
+        "score": 4,
+        "reason": "面向AI编码代理的威胁建模工具，含36种架构29种方法，安全开发有价值"
+      },
+      {
+        "id": 1436993930,
+        "full_name": "cutetailbud/ff-ruyijs",
+        "html_url": "https://github.com/cutetailbud/ff-ruyijs",
+        "stars": 254,
+        "score": 4,
+        "reason": "用真实Firefox引擎在Python中运行站点JS，反爬自动化有实用价值"
+      }
+    ]
   }
 ]
