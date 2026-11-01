@@ -4882,5 +4882,28 @@
         "reason": "用真实Firefox引擎在Python中运行站点JS，反爬自动化有实用价值"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1440705679,
+        "full_name": "deepseek-ai/dsh-superagent-prototype",
+        "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "stars": 4062,
+        "score": 4,
+        "reason": "DeepSeek官方开源的自主Agent系统原型，架构参考价值高"
+      },
+      {
+        "id": 1440160468,
+        "full_name": "Arjun-Ingole/hop",
+        "html_url": "https://github.com/Arjun-Ingole/hop",
+        "stars": 842,
+        "score": 4,
+        "reason": "无需U盘在Windows旁安装Linux，实用系统工具"
+      }
+    ]
   }
 ]
