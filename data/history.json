@@ -4905,5 +4905,44 @@
         "reason": "无需U盘在Windows旁安装Linux，实用系统工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1441344216,
+        "full_name": "Centiplatrap/pc-game-fps-doctor",
+        "html_url": "https://github.com/Centiplatrap/pc-game-fps-doctor",
+        "stars": 542,
+        "score": 4,
+        "reason": "游戏卡顿诊断工具，基于 PresentMon 测量并可一键回滚，实用"
+      },
+      {
+        "id": 1441272552,
+        "full_name": "Verlintas/NOIR",
+        "html_url": "https://github.com/Verlintas/NOIR",
+        "stars": 461,
+        "score": 4,
+        "reason": "基于 adb 的 Android 隐私审计工具，可回滚处置，实用"
+      },
+      {
+        "id": 1442056769,
+        "full_name": "Balanov/uncut",
+        "html_url": "https://github.com/Balanov/uncut",
+        "stars": 399,
+        "score": 4,
+        "reason": "轻量无头编码 Agent 框架，7MB 单二进制、stdin/stdout 接口，设计务实"
+      },
+      {
+        "id": 1441346960,
+        "full_name": "ShineFinancialStrut/game-server-route-racer",
+        "html_url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+        "stars": 360,
+        "score": 4,
+        "reason": "游戏服务器路由优化工具，实测选路并诚实报告，实用"
+      }
+    ]
   }
 ]
