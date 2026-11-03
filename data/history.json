@@ -4944,5 +4944,20 @@
         "reason": "游戏服务器路由优化工具，实测选路并诚实报告，实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1443300132,
+        "full_name": "Balanov/shim",
+        "html_url": "https://github.com/Balanov/shim",
+        "stars": 402,
+        "score": 4,
+        "reason": "零依赖本地AI harness，支持MCP与Agent Skills，轻量实用"
+      }
+    ]
   }
 ]
