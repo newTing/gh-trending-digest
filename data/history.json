@@ -4959,5 +4959,36 @@
         "reason": "零依赖本地AI harness，支持MCP与Agent Skills，轻量实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1443985070,
+        "full_name": "KKKKhazix/agent-autoloop",
+        "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+        "stars": 1365,
+        "score": 4,
+        "reason": "让CLI Agent后台自主接活并异步确认，对Agent工作流有实际价值"
+      },
+      {
+        "id": 1441521221,
+        "full_name": "wquguru/cicada",
+        "html_url": "https://github.com/wquguru/cicada",
+        "stars": 789,
+        "score": 4,
+        "reason": "macOS实时字幕与AI会议纪要工具，功能明确实用"
+      },
+      {
+        "id": 1441507782,
+        "full_name": "kevintngo/looseleaf",
+        "html_url": "https://github.com/kevintngo/looseleaf",
+        "stars": 342,
+        "score": 4,
+        "reason": "手绘风格shadcn组件库，带registry，前端可直接使用"
+      }
+    ]
   }
 ]
