@@ -4990,5 +4990,36 @@
         "reason": "手绘风格shadcn组件库，带registry，前端可直接使用"
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1443759946,
+        "full_name": "govijr/terminal-mac",
+        "html_url": "https://github.com/govijr/terminal-mac",
+        "stars": 1695,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1445802355,
+        "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 1143,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1444372497,
+        "full_name": "Minireel/HGhub",
+        "html_url": "https://github.com/Minireel/HGhub",
+        "stars": 950,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
