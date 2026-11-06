@@ -5021,5 +5021,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1444635695,
+        "full_name": "andrew-babo/muse4ai",
+        "html_url": "https://github.com/andrew-babo/muse4ai",
+        "stars": 872,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1444569395,
+        "full_name": "brightsongwrath/personal-data-deletor-osint",
+        "html_url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+        "stars": 651,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1445112696,
+        "full_name": "livliv-dev/player",
+        "html_url": "https://github.com/livliv-dev/player",
+        "stars": 614,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446515117,
+        "full_name": "WoYun520/pixel-gif-sticker-pack",
+        "html_url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+        "stars": 496,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1444005452,
+        "full_name": "Sandflow-ai/sand3d",
+        "html_url": "https://github.com/Sandflow-ai/sand3d",
+        "stars": 457,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446569267,
+        "full_name": "AtomIllusionistDwell/watson-username-footprint-finder",
+        "html_url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+        "stars": 433,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447903382,
+        "full_name": "HerdBuilderEstimate/roblox-studio-mcp",
+        "html_url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446642680,
+        "full_name": "TagPhaseArcade/tiktok-uploader",
+        "html_url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446565991,
+        "full_name": "dragonwolfshovel/youtube-uploader",
+        "html_url": "https://github.com/dragonwolfshovel/youtube-uploader",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1445176067,
+        "full_name": "Lostuaexpand/windows-animated-wallpapers",
+        "html_url": "https://github.com/Lostuaexpand/windows-animated-wallpapers",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
