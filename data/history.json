@@ -5108,5 +5108,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1448068371,
+        "full_name": "JenkinWoo/sheeridVerify",
+        "html_url": "https://github.com/JenkinWoo/sheeridVerify",
+        "stars": 1135,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446548114,
+        "full_name": "mmdoctor/google-pro-helper",
+        "html_url": "https://github.com/mmdoctor/google-pro-helper",
+        "stars": 967,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447586025,
+        "full_name": "voyager-so/vork",
+        "html_url": "https://github.com/voyager-so/vork",
+        "stars": 490,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446962520,
+        "full_name": "NotRexed/Hookshot",
+        "html_url": "https://github.com/NotRexed/Hookshot",
+        "stars": 489,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446575402,
+        "full_name": "majorminorlabs/hermes-voice",
+        "html_url": "https://github.com/majorminorlabs/hermes-voice",
+        "stars": 462,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447145240,
+        "full_name": "JosssphZhou/poki",
+        "html_url": "https://github.com/JosssphZhou/poki",
+        "stars": 439,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447991692,
+        "full_name": "PulverizeLink/roblox-performance-tool",
+        "html_url": "https://github.com/PulverizeLink/roblox-performance-tool",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448097601,
+        "full_name": "Lowbetweentrim/crypto-portfolio-tracker",
+        "html_url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker",
+        "stars": 425,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448210933,
+        "full_name": "phaseboulderfetter/discord-quest-completer",
+        "html_url": "https://github.com/phaseboulderfetter/discord-quest-completer",
+        "stars": 425,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1445695976,
+        "full_name": "egoist/mygo-music",
+        "html_url": "https://github.com/egoist/mygo-music",
+        "stars": 414,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
