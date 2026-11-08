@@ -5195,5 +5195,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1448807268,
+        "full_name": "sostenesfreitas/ocarina-recomp",
+        "html_url": "https://github.com/sostenesfreitas/ocarina-recomp",
+        "stars": 844,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447125601,
+        "full_name": "riyadhHDA/wichforks",
+        "html_url": "https://github.com/riyadhHDA/wichforks",
+        "stars": 485,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1449713552,
+        "full_name": "Poltergeistlunagrid/Steam-Idler",
+        "html_url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
+        "stars": 425,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1449614389,
+        "full_name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+        "html_url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
+        "stars": 425,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446613379,
+        "full_name": "Wallbycontact/java-mod-rust-port-tool",
+        "html_url": "https://github.com/Wallbycontact/java-mod-rust-port-tool",
+        "stars": 395,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446578592,
+        "full_name": "MythicHokageRepel/steam-inventory-value-desktop",
+        "html_url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
+        "stars": 394,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447225443,
+        "full_name": "Nebularotunnel/Token-Sniper",
+        "html_url": "https://github.com/Nebularotunnel/Token-Sniper",
+        "stars": 392,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450029261,
+        "full_name": "MuseumCassowaryCarve/twitch-drops-miner",
+        "html_url": "https://github.com/MuseumCassowaryCarve/twitch-drops-miner",
+        "stars": 385,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1446771275,
+        "full_name": "v1ktorrr0x/antigravity-filter-bypass",
+        "html_url": "https://github.com/v1ktorrr0x/antigravity-filter-bypass",
+        "stars": 384,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
