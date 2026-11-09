@@ -5282,5 +5282,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1449231124,
+        "full_name": "tangerineturtle1/NX2navi",
+        "html_url": "https://github.com/tangerineturtle1/NX2navi",
+        "stars": 1594,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448515937,
+        "full_name": "DIYgod/pinky",
+        "html_url": "https://github.com/DIYgod/pinky",
+        "stars": 1117,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450012790,
+        "full_name": "jhaizhou-ops/S2Arm",
+        "html_url": "https://github.com/jhaizhou-ops/S2Arm",
+        "stars": 998,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448920409,
+        "full_name": "lxe/phoneuse",
+        "html_url": "https://github.com/lxe/phoneuse",
+        "stars": 487,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1447939618,
+        "full_name": "devvmhq/devvm",
+        "html_url": "https://github.com/devvmhq/devvm",
+        "stars": 426,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450110035,
+        "full_name": "PaladinSmash84/aida-64-extreme",
+        "html_url": "https://github.com/PaladinSmash84/aida-64-extreme",
+        "stars": 402,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450110429,
+        "full_name": "PresidentThaw/capcut-for-windows",
+        "html_url": "https://github.com/PresidentThaw/capcut-for-windows",
+        "stars": 402,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450113144,
+        "full_name": "WayBuilderDeliver/windows-optimizer",
+        "html_url": "https://github.com/WayBuilderDeliver/windows-optimizer",
+        "stars": 401,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450112690,
+        "full_name": "updatesealeradicate/start11",
+        "html_url": "https://github.com/updatesealeradicate/start11",
+        "stars": 401,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450111705,
+        "full_name": "Soundplomystery/landr-plugin-bundle",
+        "html_url": "https://github.com/Soundplomystery/landr-plugin-bundle",
+        "stars": 401,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
