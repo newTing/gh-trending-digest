@@ -5456,5 +5456,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1452889728,
+        "full_name": "AngleCentipede/ifunbox",
+        "html_url": "https://github.com/AngleCentipede/ifunbox",
+        "stars": 766,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452531582,
+        "full_name": "HybridRobotics/supermimic",
+        "html_url": "https://github.com/HybridRobotics/supermimic",
+        "stars": 760,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452891590,
+        "full_name": "chambergeneralamp/quant-trading-bot",
+        "html_url": "https://github.com/chambergeneralamp/quant-trading-bot",
+        "stars": 758,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452892848,
+        "full_name": "crewbookkeepercastle/trx-drainer-bot",
+        "html_url": "https://github.com/crewbookkeepercastle/trx-drainer-bot",
+        "stars": 757,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452892830,
+        "full_name": "CpuMizukageFaucet/touch-copy",
+        "html_url": "https://github.com/CpuMizukageFaucet/touch-copy",
+        "stars": 756,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452892717,
+        "full_name": "Cordkushelter78/tenorshare-4ukey",
+        "html_url": "https://github.com/Cordkushelter78/tenorshare-4ukey",
+        "stars": 754,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452893388,
+        "full_name": "BasaltCongressman/wise-registrity",
+        "html_url": "https://github.com/BasaltCongressman/wise-registrity",
+        "stars": 752,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452892815,
+        "full_name": "CpuCoreChant/total-commander",
+        "html_url": "https://github.com/CpuCoreChant/total-commander",
+        "stars": 752,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452893200,
+        "full_name": "Tremorfualembic30/whale-tracker",
+        "html_url": "https://github.com/Tremorfualembic30/whale-tracker",
+        "stars": 751,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452886819,
+        "full_name": "TideSpiderJournal45/androidunlocker",
+        "html_url": "https://github.com/TideSpiderJournal45/androidunlocker",
+        "stars": 661,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
