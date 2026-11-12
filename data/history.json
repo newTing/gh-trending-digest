@@ -5543,5 +5543,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1452008226,
+        "full_name": "HolyArrs/HolyArrs",
+        "html_url": "https://github.com/HolyArrs/HolyArrs",
+        "stars": 865,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450794567,
+        "full_name": "agentes-chat/agentes-chat",
+        "html_url": "https://github.com/agentes-chat/agentes-chat",
+        "stars": 603,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1453132706,
+        "full_name": "FrigadeHQ/yogurt",
+        "html_url": "https://github.com/FrigadeHQ/yogurt",
+        "stars": 576,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452450730,
+        "full_name": "JDhruv14/line-art-animation",
+        "html_url": "https://github.com/JDhruv14/line-art-animation",
+        "stars": 498,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1451775929,
+        "full_name": "alexeyw/lot-map",
+        "html_url": "https://github.com/alexeyw/lot-map",
+        "stars": 462,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1451554320,
+        "full_name": "adriadam10/mkw-recomp",
+        "html_url": "https://github.com/adriadam10/mkw-recomp",
+        "stars": 449,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1451662178,
+        "full_name": "Dodaios/ste80-humanizer",
+        "html_url": "https://github.com/Dodaios/ste80-humanizer",
+        "stars": 420,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1451167171,
+        "full_name": "yetone/rewind-for-x",
+        "html_url": "https://github.com/yetone/rewind-for-x",
+        "stars": 402,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1451430394,
+        "full_name": "TomyJan/SnowLuma",
+        "html_url": "https://github.com/TomyJan/SnowLuma",
+        "stars": 337,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452544018,
+        "full_name": "aronhy/pibrowse",
+        "html_url": "https://github.com/aronhy/pibrowse",
+        "stars": 332,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
