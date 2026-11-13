@@ -5630,5 +5630,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1453517867,
+        "full_name": "apex-compute/ANR",
+        "html_url": "https://github.com/apex-compute/ANR",
+        "stars": 1107,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1455173808,
+        "full_name": "AIRzZ90/study-materials-fork",
+        "html_url": "https://github.com/AIRzZ90/study-materials-fork",
+        "stars": 431,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454392563,
+        "full_name": "makepad/relax",
+        "html_url": "https://github.com/makepad/relax",
+        "stars": 313,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1453092233,
+        "full_name": "MSNightmare/SignDrop",
+        "html_url": "https://github.com/MSNightmare/SignDrop",
+        "stars": 305,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454389076,
+        "full_name": "linknimiball1974/ai-texture-forge",
+        "html_url": "https://github.com/linknimiball1974/ai-texture-forge",
+        "stars": 297,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454661440,
+        "full_name": "rivet-dev/open-orange",
+        "html_url": "https://github.com/rivet-dev/open-orange",
+        "stars": 296,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454391705,
+        "full_name": "tigerogijzooav/Hyperliquid-Trade-Bot",
+        "html_url": "https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot",
+        "stars": 289,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452814488,
+        "full_name": "realcodebear/saltline-fable-5.2",
+        "html_url": "https://github.com/realcodebear/saltline-fable-5.2",
+        "stars": 276,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454221776,
+        "full_name": "op7418/guizang-game-skill",
+        "html_url": "https://github.com/op7418/guizang-game-skill",
+        "stars": 271,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454561955,
+        "full_name": "DandanLLab/SnowCatQQ",
+        "html_url": "https://github.com/DandanLLab/SnowCatQQ",
+        "stars": 243,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
