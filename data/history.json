@@ -5717,5 +5717,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1455006582,
+        "full_name": "deepseek-ai/chat-demo",
+        "html_url": "https://github.com/deepseek-ai/chat-demo",
+        "stars": 1168,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1455815512,
+        "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+        "html_url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+        "stars": 541,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1456537250,
+        "full_name": "opencoredev/islandcn",
+        "html_url": "https://github.com/opencoredev/islandcn",
+        "stars": 432,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1456134750,
+        "full_name": "faizfahmi77/ScanDot",
+        "html_url": "https://github.com/faizfahmi77/ScanDot",
+        "stars": 402,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1454708045,
+        "full_name": "Simon3Sarkis/super-odyssey-pc-recomp",
+        "html_url": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
+        "stars": 280,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1456290080,
+        "full_name": "quer3q/kraken-mount",
+        "html_url": "https://github.com/quer3q/kraken-mount",
+        "stars": 272,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1453389238,
+        "full_name": "AFangTeam/PrintLab",
+        "html_url": "https://github.com/AFangTeam/PrintLab",
+        "stars": 256,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1455933518,
+        "full_name": "berkantay/gpucanvas",
+        "html_url": "https://github.com/berkantay/gpucanvas",
+        "stars": 244,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1455196450,
+        "full_name": "higurashi-ai/Haru",
+        "html_url": "https://github.com/higurashi-ai/Haru",
+        "stars": 235,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1457270665,
+        "full_name": "duwqijlk/muse-protocol",
+        "html_url": "https://github.com/duwqijlk/muse-protocol",
+        "stars": 231,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
