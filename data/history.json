@@ -5891,5 +5891,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1457509118,
+        "full_name": "haziqahmedqasmi/PeakCut",
+        "html_url": "https://github.com/haziqahmedqasmi/PeakCut",
+        "stars": 487,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459020341,
+        "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
+        "html_url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+        "stars": 474,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019357,
+        "full_name": "WindGatorRise37/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459020334,
+        "full_name": "WyrmClimberManacle/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459018145,
+        "full_name": "TurtleReside/Gemini-Config-Checker-",
+        "html_url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019240,
+        "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
+        "html_url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019371,
+        "full_name": "WindowStaffGate11/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019231,
+        "full_name": "WerewolfEmuHub/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459018150,
+        "full_name": "Violetnyudress/Gemini-Config-Checker-",
+        "html_url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459018157,
+        "full_name": "TrooperFilter/Gemini-Config-Checker-",
+        "html_url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
