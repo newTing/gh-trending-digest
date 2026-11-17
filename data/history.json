@@ -5978,5 +5978,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1457362196,
+        "full_name": "CzzzzzzJ/mdldm-maitian",
+        "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "stars": 661,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460469810,
+        "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "stars": 658,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1457919852,
+        "full_name": "n4ze3m/tiny-voca",
+        "html_url": "https://github.com/n4ze3m/tiny-voca",
+        "stars": 645,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1458292408,
+        "full_name": "yetanotherbrowser/yab",
+        "html_url": "https://github.com/yetanotherbrowser/yab",
+        "stars": 619,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459063723,
+        "full_name": "joshpuckett/allo",
+        "html_url": "https://github.com/joshpuckett/allo",
+        "stars": 555,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459020338,
+        "full_name": "wisemeadowlarkspike/Gemini-Config-Checker-",
+        "html_url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019228,
+        "full_name": "Watchlespeed/Gemini-Config-Checker-",
+        "html_url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459018207,
+        "full_name": "VortexHostFeel/Gemini-Config-Checker-",
+        "html_url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459018153,
+        "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
+        "html_url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019360,
+        "full_name": "WingDataVacuum/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
