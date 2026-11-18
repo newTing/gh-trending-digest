@@ -6065,5 +6065,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1461244802,
+        "full_name": "gylive/google-ultra",
+        "html_url": "https://github.com/gylive/google-ultra",
+        "stars": 2257,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459971684,
+        "full_name": "erkamyaman/rust-anything",
+        "html_url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 1994,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460417668,
+        "full_name": "sybil-solutions/inference-optimisation-skill",
+        "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "stars": 988,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460149071,
+        "full_name": "chuanqisun/spaceship",
+        "html_url": "https://github.com/chuanqisun/spaceship",
+        "stars": 781,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1458720005,
+        "full_name": "Hut-hzf/ung220z-tool",
+        "html_url": "https://github.com/Hut-hzf/ung220z-tool",
+        "stars": 637,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460180740,
+        "full_name": "boringmarketer/boring-marketing-skills",
+        "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
+        "stars": 588,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459020291,
+        "full_name": "WireProvostPucker/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459018149,
+        "full_name": "VisionWormStudio/Gemini-Config-Checker-",
+        "html_url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019266,
+        "full_name": "WestLocksmithSpout/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459019270,
+        "full_name": "WharfBoulderColander/Gemini-Config-Checker-",
+        "html_url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+        "stars": 473,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
