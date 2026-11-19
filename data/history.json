@@ -6152,5 +6152,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1460361401,
+        "full_name": "Illson/RustText",
+        "html_url": "https://github.com/Illson/RustText",
+        "stars": 648,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459700211,
+        "full_name": "siliconjungle/shapeshift-labs-ink-studio",
+        "html_url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+        "stars": 619,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459485844,
+        "full_name": "scottsturrock/mate-wayland-desktop",
+        "html_url": "https://github.com/scottsturrock/mate-wayland-desktop",
+        "stars": 440,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459669299,
+        "full_name": "waw666waw666/RegisterHub",
+        "html_url": "https://github.com/waw666waw666/RegisterHub",
+        "stars": 307,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1461549500,
+        "full_name": "free-dam-man/cloud-exit-node-deploy",
+        "html_url": "https://github.com/free-dam-man/cloud-exit-node-deploy",
+        "stars": 305,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1459776570,
+        "full_name": "scarletkc/colab-playground",
+        "html_url": "https://github.com/scarletkc/colab-playground",
+        "stars": 282,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460221483,
+        "full_name": "Orderchodrag/smelt-minecraft-mods-to-rust-converter",
+        "html_url": "https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter",
+        "stars": 262,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460712290,
+        "full_name": "xyzww888/muse-JP-Reg",
+        "html_url": "https://github.com/xyzww888/muse-JP-Reg",
+        "stars": 254,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460355257,
+        "full_name": "AnIT012/nihongo",
+        "html_url": "https://github.com/AnIT012/nihongo",
+        "stars": 254,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460146046,
+        "full_name": "memoryswordsmanlaud/watson-username-footprint-finder",
+        "html_url": "https://github.com/memoryswordsmanlaud/watson-username-footprint-finder",
+        "stars": 239,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
