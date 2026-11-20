@@ -6239,5 +6239,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1463149139,
+        "full_name": "Bodila51/gtavi-claudecode",
+        "html_url": "https://github.com/Bodila51/gtavi-claudecode",
+        "stars": 1050,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1464271688,
+        "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "stars": 939,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1463077742,
+        "full_name": "0marContreras/gta6recomp",
+        "html_url": "https://github.com/0marContreras/gta6recomp",
+        "stars": 707,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1463963309,
+        "full_name": "iamajmeena/neonclipping",
+        "html_url": "https://github.com/iamajmeena/neonclipping",
+        "stars": 666,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1461522454,
+        "full_name": "Lemxy/WinRust",
+        "html_url": "https://github.com/Lemxy/WinRust",
+        "stars": 512,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460965754,
+        "full_name": "0xkaka/homeport",
+        "html_url": "https://github.com/0xkaka/homeport",
+        "stars": 492,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1464126198,
+        "full_name": "MSNightmare/FastUnlock",
+        "html_url": "https://github.com/MSNightmare/FastUnlock",
+        "stars": 448,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1460835528,
+        "full_name": "replit/datacat",
+        "html_url": "https://github.com/replit/datacat",
+        "stars": 425,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1464030607,
+        "full_name": "duwqijlk/google-trial-tool",
+        "html_url": "https://github.com/duwqijlk/google-trial-tool",
+        "stars": 324,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1464004445,
+        "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "html_url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "stars": 264,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
