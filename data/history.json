@@ -6326,5 +6326,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1465951272,
+        "full_name": "hatsunemiku-ai/google-one-tools",
+        "html_url": "https://github.com/hatsunemiku-ai/google-one-tools",
+        "stars": 458,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465559592,
+        "full_name": "CocoSgt/riemann-hypothesis-lean",
+        "html_url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+        "stars": 348,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1462695234,
+        "full_name": "sfewer-r7/CVE-2026-123007",
+        "html_url": "https://github.com/sfewer-r7/CVE-2026-123007",
+        "stars": 280,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465302366,
+        "full_name": "tristanbuckmaster/navier-stokes",
+        "html_url": "https://github.com/tristanbuckmaster/navier-stokes",
+        "stars": 255,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465547415,
+        "full_name": "leanprover-community/riemann-hypothesis",
+        "html_url": "https://github.com/leanprover-community/riemann-hypothesis",
+        "stars": 241,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1464704089,
+        "full_name": "umbra0688/windows-clipboard-manager-sync",
+        "html_url": "https://github.com/umbra0688/windows-clipboard-manager-sync",
+        "stars": 239,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1462968997,
+        "full_name": "hoangsvit/google-ai",
+        "html_url": "https://github.com/hoangsvit/google-ai",
+        "stars": 230,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1463683138,
+        "full_name": "INK-Q/agy-fast",
+        "html_url": "https://github.com/INK-Q/agy-fast",
+        "stars": 211,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465531278,
+        "full_name": "danielwh2/sprite-stacking",
+        "html_url": "https://github.com/danielwh2/sprite-stacking",
+        "stars": 200,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1463927360,
+        "full_name": "heep-ai/restaurant-ai-skills",
+        "html_url": "https://github.com/heep-ai/restaurant-ai-skills",
+        "stars": 186,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
