@@ -6413,5 +6413,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1465855400,
+        "full_name": "ItsNotRexed/Leonida",
+        "html_url": "https://github.com/ItsNotRexed/Leonida",
+        "stars": 7838,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465728637,
+        "full_name": "R0Y00/Xbox2Windows",
+        "html_url": "https://github.com/R0Y00/Xbox2Windows",
+        "stars": 1038,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466325515,
+        "full_name": "omonkeyz/xbox-emulator",
+        "html_url": "https://github.com/omonkeyz/xbox-emulator",
+        "stars": 933,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466614444,
+        "full_name": "opokukopoku/gta-6-pc-release",
+        "html_url": "https://github.com/opokukopoku/gta-6-pc-release",
+        "stars": 409,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466075841,
+        "full_name": "sybil-solutions/skill-distill",
+        "html_url": "https://github.com/sybil-solutions/skill-distill",
+        "stars": 408,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466939691,
+        "full_name": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+        "html_url": "https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+        "stars": 350,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466635339,
+        "full_name": "EL4CTEO/fast-anything",
+        "html_url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 349,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466943423,
+        "full_name": "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+        "html_url": "https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+        "stars": 342,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466969147,
+        "full_name": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+        "html_url": "https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+        "stars": 342,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466953319,
+        "full_name": "leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+        "html_url": "https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+        "stars": 340,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
