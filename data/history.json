@@ -6500,5 +6500,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1467519193,
+        "full_name": "os6/nospeaker",
+        "html_url": "https://github.com/os6/nospeaker",
+        "stars": 696,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465596539,
+        "full_name": "realdody/americas-recomp",
+        "html_url": "https://github.com/realdody/americas-recomp",
+        "stars": 542,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465281397,
+        "full_name": "AFK-surf/xnulinux",
+        "html_url": "https://github.com/AFK-surf/xnulinux",
+        "stars": 477,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1464795219,
+        "full_name": "ThreatDefence/agentic-attack-detections",
+        "html_url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "stars": 464,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1465854668,
+        "full_name": "ItsNotRexed/Hookshot",
+        "html_url": "https://github.com/ItsNotRexed/Hookshot",
+        "stars": 463,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466272233,
+        "full_name": "w01fb0ss/PiBot",
+        "html_url": "https://github.com/w01fb0ss/PiBot",
+        "stars": 451,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466728118,
+        "full_name": "alexeytarasov8/jetbrains-pycharm-professional-win",
+        "html_url": "https://github.com/alexeytarasov8/jetbrains-pycharm-professional-win",
+        "stars": 442,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466651861,
+        "full_name": "fernandeslokesh10/figma-desktop-win",
+        "html_url": "https://github.com/fernandeslokesh10/figma-desktop-win",
+        "stars": 439,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466712561,
+        "full_name": "Jxue907/mathcad-prime-win",
+        "html_url": "https://github.com/Jxue907/mathcad-prime-win",
+        "stars": 439,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466691434,
+        "full_name": "Mnowak64/iobit-uninstaller-pro-win",
+        "html_url": "https://github.com/Mnowak64/iobit-uninstaller-pro-win",
+        "stars": 438,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
