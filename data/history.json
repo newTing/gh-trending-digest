@@ -6587,5 +6587,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1469344551,
+        "full_name": "Marvisak/VIctory",
+        "html_url": "https://github.com/Marvisak/VIctory",
+        "stars": 7505,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1467035512,
+        "full_name": "4lwayz/portwatch-vi",
+        "html_url": "https://github.com/4lwayz/portwatch-vi",
+        "stars": 1488,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469441675,
+        "full_name": "ubiquitarianism/leonida",
+        "html_url": "https://github.com/ubiquitarianism/leonida",
+        "stars": 947,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466772859,
+        "full_name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+        "html_url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+        "stars": 630,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1467769720,
+        "full_name": "erkamyaman/safe-anything",
+        "html_url": "https://github.com/erkamyaman/safe-anything",
+        "stars": 552,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466035287,
+        "full_name": "xikhar/papercraft",
+        "html_url": "https://github.com/xikhar/papercraft",
+        "stars": 535,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1468952813,
+        "full_name": "RyanLebedev6104/robrun-cheat",
+        "html_url": "https://github.com/RyanLebedev6104/robrun-cheat",
+        "stars": 534,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466700014,
+        "full_name": "qianyiai/kurocat",
+        "html_url": "https://github.com/qianyiai/kurocat",
+        "stars": 511,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1467247580,
+        "full_name": "deterministic-machines/deslop-please",
+        "html_url": "https://github.com/deterministic-machines/deslop-please",
+        "stars": 460,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1466105732,
+        "full_name": "sshkeda/minecraft-server-on-orange-cloud",
+        "html_url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+        "stars": 424,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
