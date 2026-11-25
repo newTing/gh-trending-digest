@@ -6674,5 +6674,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1470579726,
+        "full_name": "fxceless/victory-fork",
+        "html_url": "https://github.com/fxceless/victory-fork",
+        "stars": 2503,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469329665,
+        "full_name": "Indigo-0167/universal-game-mod-manager",
+        "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+        "stars": 1176,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1471056687,
+        "full_name": "Zettrox/ztrx",
+        "html_url": "https://github.com/Zettrox/ztrx",
+        "stars": 1165,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469338376,
+        "full_name": "Umbra9179/clipboard-history-manager-windows",
+        "html_url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+        "stars": 1151,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469330932,
+        "full_name": "solv4626/steam-achievement-manager-windows",
+        "html_url": "https://github.com/solv4626/steam-achievement-manager-windows",
+        "stars": 1063,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469337059,
+        "full_name": "zero5122/offline-file-converter-windows",
+        "html_url": "https://github.com/zero5122/offline-file-converter-windows",
+        "stars": 1059,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469332110,
+        "full_name": "kai415-debug/ffmpeg-video-audio-converter",
+        "html_url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+        "stars": 1024,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1467880545,
+        "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "stars": 1005,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1467461515,
+        "full_name": "crhywun/g1-acq",
+        "html_url": "https://github.com/crhywun/g1-acq",
+        "stars": 897,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469322189,
+        "full_name": "rowanbyte3329/stardew-valley-mod-manager",
+        "html_url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
+        "stars": 871,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
