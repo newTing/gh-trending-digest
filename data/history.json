@@ -6761,5 +6761,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1471562910,
+        "full_name": "Belobug/VIctory-Belobug-AMD",
+        "html_url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+        "stars": 1703,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1472396996,
+        "full_name": "avatarmanz/VIctory-7900XTX",
+        "html_url": "https://github.com/avatarmanz/VIctory-7900XTX",
+        "stars": 1343,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1471422729,
+        "full_name": "alesha-pro/llm.asm",
+        "html_url": "https://github.com/alesha-pro/llm.asm",
+        "stars": 773,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469319174,
+        "full_name": "olive527/steam-library-manager-windows",
+        "html_url": "https://github.com/olive527/steam-library-manager-windows",
+        "stars": 719,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469320737,
+        "full_name": "Basil0879/steam-game-idler",
+        "html_url": "https://github.com/Basil0879/steam-game-idler",
+        "stars": 681,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469333130,
+        "full_name": "Nebula4207/av1-video-encoder-gui",
+        "html_url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+        "stars": 681,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1468140561,
+        "full_name": "chanke17/KuroCat",
+        "html_url": "https://github.com/chanke17/KuroCat",
+        "stars": 624,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1472319077,
+        "full_name": "lsernau/grh-lean",
+        "html_url": "https://github.com/lsernau/grh-lean",
+        "stars": 617,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469335791,
+        "full_name": "umbradev315/ffmpeg-video-audio-converter",
+        "html_url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+        "stars": 551,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1469328448,
+        "full_name": "peak85-sketch/stardew-valley-mod-manager",
+        "html_url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+        "stars": 509,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
