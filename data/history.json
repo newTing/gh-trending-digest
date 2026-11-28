@@ -6848,5 +6848,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1472451283,
+        "full_name": "trustno1-coder/VIctory-NVIDIA",
+        "html_url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+        "stars": 4546,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1471624301,
+        "full_name": "nexu-io/opengame",
+        "html_url": "https://github.com/nexu-io/opengame",
+        "stars": 2525,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1472124387,
+        "full_name": "Reukix/Reloc",
+        "html_url": "https://github.com/Reukix/Reloc",
+        "stars": 1954,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1473688485,
+        "full_name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+        "html_url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+        "stars": 1507,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1474593596,
+        "full_name": "riveran0226/windows-explorer-blur-mica",
+        "html_url": "https://github.com/riveran0226/windows-explorer-blur-mica",
+        "stars": 990,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1474584825,
+        "full_name": "flint63-code/gitdesk-windows",
+        "html_url": "https://github.com/flint63-code/gitdesk-windows",
+        "stars": 988,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1474611005,
+        "full_name": "nocta1554/windows-video-downloader-gui",
+        "html_url": "https://github.com/nocta1554/windows-video-downloader-gui",
+        "stars": 984,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1474599413,
+        "full_name": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+        "html_url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm",
+        "stars": 982,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1474605762,
+        "full_name": "leaf7684/windows-modern-media-player",
+        "html_url": "https://github.com/leaf7684/windows-modern-media-player",
+        "stars": 978,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1474588528,
+        "full_name": "Red2076-arch/waifu2x-image-upscaler-windows",
+        "html_url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+        "stars": 977,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
